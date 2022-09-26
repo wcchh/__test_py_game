@@ -1,2 +1,2 @@
 # my_game
-python practise
+python practise with pygame.
